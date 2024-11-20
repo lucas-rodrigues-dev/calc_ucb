@@ -1,0 +1,15 @@
+button {
+    margin: auto;
+    display: flex;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    background: #fff;
+    transition: 200ms;
+}
+
+button:hover {
+    background: #12e7b9;
+    transition: 200ms;
+    cursor: pointer;
+}
